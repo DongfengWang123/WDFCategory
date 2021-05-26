@@ -1,0 +1,22 @@
+{
+  "name": "WDFCategory",
+  "version": "0.1.0",
+  "summary": "A short description of WDFCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/940442131@qq.com/WDFCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "940442131@qq.com": "940442131@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/940442131@qq.com/WDFCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WDFCategory/Classes/**/*"
+}
